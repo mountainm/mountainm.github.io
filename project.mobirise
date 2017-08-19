@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "schedule.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -29,7 +29,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Mountain Mission",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
