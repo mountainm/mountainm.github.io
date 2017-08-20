@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -2425,7 +2425,7 @@
             }
           },
           "title": "Contact",
-          "text": "You can get in contact with us for information or to make a booking, by sending an e-mail to:<br><i><br></i><i><b><a href=\"mailto:MountainMissionUK@gmail.com\">MountainMissionUK [at] gmail.com</a></b></i><br><br>We will get back to you as sson as possible, usually within 48 hours.",
+          "text": "You can get in contact with us for information or to make a booking, by sending an e-mail to:<br><i><br></i><i><b><a href=\"mailto:MountainMissionUK@gmail.com\">MountainMissionUK [at] gmail.com</a></b></i><br><br>We will get back to you as soon as possible, usually within 48 hours.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_anchor": "msg-box6-1v"
         }
