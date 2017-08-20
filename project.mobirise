@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -141,7 +141,7 @@
           },
           "title1": "What's your challenge?",
           "subtitle1": "",
-          "caption1": "The UK is home to many physical hiking challenges, such as the 3 peaks challenge, the Welsh-3000-ers, or various Munro challenges. If you are up for it, will can facilitate your attempt if your dare!",
+          "caption1": "The UK is home to many physical hiking challenges, such as the 3 peaks challenge, the Welsh-3000-ers, or various Munro challenges. If you are up for it, we can facilitate and assist you in these!",
           "button1": "<a data-app-btn=\"true\" href=\"HikingChallenges.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -157,7 +157,7 @@
           },
           "title2": "Group adventures",
           "subtitle2": "",
-          "caption2": "If you are a small group of friends or a larger organisation, we can cater for whatever your group is interested in... let us know, we curious!",
+          "caption2": "If you are a small group of friends or a larger organisation, we can cater for whatever your group is interested in... let us know, we'd love to hear!",
           "button2": "<a data-app-btn=\"true\" href=\"Groups.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
@@ -173,7 +173,7 @@
           },
           "title3": "Spiritual reflection",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "We are great believers in taking time and space to reflect upon life and spiritual well-being. We aim to facilitate from a Christian perspective with our 'Spiritual Reflection' trips.",
+          "caption3": "We are great believers in taking time and space to reflect upon life and spiritual well-being. We aim to facilitate this from a Christian perspective with our 'Spiritual Reflection' trips.",
           "button3": "<a data-app-btn=\"true\" href=\"reflection.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
