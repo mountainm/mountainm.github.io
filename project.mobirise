@@ -61,10 +61,10 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dscn5667-2000x1500.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -74,10 +74,10 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.1"
           },
           "title": "<span style=\"font-size: 3rem; letter-spacing: -1px; line-height: 1.1;\">Mountain Mission</span><br>",
-          "text": "<p><i><b>What's your mountainous mission challenge?</b></i></p>",
+          "text": "<p><i><b>What's your mountainous mission?</b></i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -88,7 +88,7 @@
           "_anchor": "content1-1",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 1,
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
           "text": "<p>Welcome to Mountain Mission; we aim to assist you in enjoying and achieving in the mountains. We also aim to facilitate the spiritual well-being of those interested in finding a deeper level of meaning in life, for which the surrounding of the great outdoors is an ideal place.</p><p>We can help you if you are looking for a <b>challenge</b>, if you are looking for an&nbsp;<b>adventure</b>, if you are looking for a <b>new experience</b>, or if you are simply looking to experience new places from a <b>unique perspective</b>.&nbsp;</p><p><br></p><p>All our adventures and trips are led by experienced guides and can be customised to your own aims and requirements. Just ask!</p><p><br></p><p>We are based in both The Netherlands and Scotland and therefore can also offer a specific Dutch spoken guidance.&nbsp;</p><p><br></p><p>Take a look at who we are and what we can do for you... and feel free to get in contact to discuss your ideas.</p><p><br></p><p><br></p>"
@@ -286,9 +286,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mm-logo2017-270x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -304,7 +304,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -321,14 +321,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mountain Mission."
         }
       ]
     },
     "aboutmm.html": {
       "settings": {
-        "title": "About Mountain Mission",
-        "meta_descr": "Web Creator Description",
+        "title": "Mountain Mission - About Mountain Mission",
+        "meta_descr": "",
         "order": 6
       },
       "components": [
@@ -406,9 +406,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mm-logo2017-270x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -425,7 +425,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -442,7 +442,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mountain Mission."
         },
         {
           "_inherit": "msg-box5",
@@ -507,8 +507,8 @@
     },
     "MunroBagging.html": {
       "settings": {
-        "title": "Munro bagging",
-        "meta_descr": "Web Creator Description",
+        "title": "Mountain Mission - Munro bagging",
+        "meta_descr": "Mountain Mission",
         "order": 2
       },
       "components": [
@@ -586,9 +586,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mm-logo2017-270x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -605,7 +605,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -622,7 +622,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mountain Mission."
         },
         {
           "_inherit": "msg-box5",
@@ -687,8 +687,8 @@
     },
     "YourAdventure.html": {
       "settings": {
-        "title": "Your adventure",
-        "meta_descr": "Web Creator Description",
+        "title": "Mountain Mission - Your adventure",
+        "meta_descr": "",
         "order": 3
       },
       "components": [
@@ -766,9 +766,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mm-logo2017-270x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -785,7 +785,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -802,7 +802,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mountain Mission."
         },
         {
           "_inherit": "msg-box5",
@@ -870,8 +870,8 @@
     },
     "LongDistance.html": {
       "settings": {
-        "title": "Long distance treks",
-        "meta_descr": "Web Creator Description",
+        "title": "Mountain Mission - Long distance treks",
+        "meta_descr": "",
         "order": 4
       },
       "components": [
@@ -949,9 +949,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mm-logo2017-270x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -968,7 +968,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -985,7 +985,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mountain Mission."
         },
         {
           "_inherit": "msg-box5",
@@ -1050,8 +1050,8 @@
     },
     "Groups.html": {
       "settings": {
-        "title": "Group adventures",
-        "meta_descr": "Web Creator Description",
+        "title": "Mountain Mission - Group adventures",
+        "meta_descr": "",
         "order": 5
       },
       "components": [
@@ -1129,9 +1129,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mm-logo2017-270x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -1148,7 +1148,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1165,7 +1165,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mountain Mission."
         },
         {
           "_inherit": "msg-box5",
@@ -1230,8 +1230,8 @@
     },
     "HikingChallenges.html": {
       "settings": {
-        "title": "Hiking Challenges",
-        "meta_descr": "Web Creator Description",
+        "title": "Mountain Mission - Hiking Challenges",
+        "meta_descr": "",
         "order": 13
       },
       "components": [
@@ -1309,9 +1309,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mm-logo2017-270x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -1323,12 +1323,11 @@
               "linkInNewWindow": false,
               "name": "mobirise",
               "family": "MobiriseIcons",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1345,7 +1344,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mountain Mission."
         },
         {
           "_inherit": "msg-box5",
@@ -1410,8 +1409,8 @@
     },
     "ScottishHighlands.html": {
       "settings": {
-        "title": "Scottish Highlands",
-        "meta_descr": "Web Creator Description",
+        "title": "Mountain Mission - Scottish Highlands",
+        "meta_descr": "",
         "order": 7
       },
       "components": [
@@ -1489,9 +1488,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mm-logo2017-270x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -1508,7 +1507,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1525,7 +1524,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mountain Mission."
         },
         {
           "_inherit": "msg-box5",
@@ -1590,8 +1589,8 @@
     },
     "UKEU.html": {
       "settings": {
-        "title": "UK and Europe",
-        "meta_descr": "Web Creator Description",
+        "title": "Mountain Mission - UK and Europe",
+        "meta_descr": "",
         "order": 8
       },
       "components": [
@@ -1669,9 +1668,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mm-logo2017-270x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -1688,7 +1687,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1705,7 +1704,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mountain Mission."
         },
         {
           "_inherit": "msg-box5",
@@ -1770,7 +1769,7 @@
     },
     "terms.html": {
       "settings": {
-        "title": "Terms & Conditions",
+        "title": "Mountain Mission - Terms & Conditions",
         "meta_descr": "",
         "order": 9
       },
@@ -1849,9 +1848,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mm-logo2017-270x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -1868,7 +1867,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1885,7 +1884,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mountain Mission."
         },
         {
           "_inherit": "msg-box5",
@@ -1950,7 +1949,7 @@
     },
     "schedule.html": {
       "settings": {
-        "title": "Schedule & Price guide",
+        "title": "Mountain Mission - Schedule & Price guide",
         "meta_descr": "",
         "order": 12
       },
@@ -2029,9 +2028,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mm-logo2017-270x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -2048,7 +2047,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2065,7 +2064,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mountain Mission."
         },
         {
           "_inherit": "msg-box5",
@@ -2136,7 +2135,7 @@
     },
     "reflection.html": {
       "settings": {
-        "title": "Spiritual reflection",
+        "title": "Mountain Mission - Spiritual reflection",
         "meta_descr": "",
         "order": 1
       },
@@ -2215,9 +2214,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mm-logo2017-270x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -2234,7 +2233,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2251,7 +2250,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mountain Mission."
         },
         {
           "_inherit": "msg-box5",
@@ -2319,7 +2318,7 @@
     },
     "contact.html": {
       "settings": {
-        "title": "Contact",
+        "title": "Mountain Mission - Contact",
         "meta_descr": "",
         "order": 11
       },
@@ -2397,9 +2396,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mm-logo2017-270x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -2416,7 +2415,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-1t"
         },
         {
@@ -2433,7 +2432,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
+          "text": "Copyright (c) 2017 Mountain Mission.",
           "_anchor": "footer1-1u"
         },
         {
@@ -2499,7 +2498,7 @@
     },
     "transportandaccomodation.html": {
       "settings": {
-        "title": "Transport &amp; accomodation",
+        "title": "Mountain Mission - Transport &amp; accomodation",
         "meta_descr": "",
         "order": 10
       },
@@ -2577,9 +2576,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mm-logo2017-270x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -2596,7 +2595,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-1w"
         },
         {
@@ -2613,7 +2612,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2016 Mobirise.",
+          "text": "Copyright (c) 2017 Mountain Mission.",
           "_anchor": "footer1-1x"
         },
         {
