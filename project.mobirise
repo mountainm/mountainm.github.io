@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 71,
+    "uniqCompNum": 74,
     "versionPublish": "4.1.6"
   },
   "pages": {
@@ -129,7 +129,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/challenge-605x345.jpg",
+              "src": "@PROJECT_PATH@/assets/images/challenge-alt-471x345.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -161,7 +161,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Groups.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/spiritual-sm-600x466.jpg",
+              "src": "@PROJECT_PATH@/assets/images/spiritual-sm-600x453.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -499,7 +499,7 @@
               "size": 250
             }
           },
-          "title": "ABOUT MOUNTAIN MISSION",
+          "title": "About Mountain Mission",
           "text": "<p>At Mountain Mission we believe that everyone can and should enjoy nature to the fullest and that there a level and type of adventure exists for everyone. We specialise in assisting our clients to discover and undertake outdoor adventures, mainly in mountaineous terrain and with a focus on the Scottish Highlands, although other areas are also possible.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">We also recognise the unique opportunities that outdoor adventures can offer and ways that they can help ones wellbeing. This includes physical and mental challenges and achievements, but also spiritual wellbeing. Being out, away from technology in the beauty of nature with very few daily distractions, allows for reflection on some of lifes deeper questions. We are open to assisting in these processes.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">We are also a Christian organisation and aim to maintain these norms and values to the fullest in the way we operate. We also offer Christian specific trips for those seeking deeper spiritual well-being.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Mountain Mission came into existance in 2017 and is run by Simeon Calvert. Simeon has many years of experience in hiking throughout Europe and the UK and has a great love for all the mountains and hills have to offer. He is a trained UK Mountain Leader, and member of Mountaineering Scotland and Dutch mountaineering association NKBV. Originally born and raised in Scotland, he now lives in the Netherlands, from where he also offers unique opportunities for Dutch based clients to enjoy the Hi</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">ghlands with a Scottish guide who speaks their own Dutch language.</span></p><p><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
@@ -1232,7 +1232,7 @@
       "settings": {
         "title": "Mountain Mission - Hiking Challenges",
         "meta_descr": "",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -1591,7 +1591,7 @@
       "settings": {
         "title": "Mountain Mission - UK and Europe",
         "meta_descr": "",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -1771,7 +1771,7 @@
       "settings": {
         "title": "Mountain Mission - Terms & Conditions",
         "meta_descr": "",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1951,7 +1951,7 @@
       "settings": {
         "title": "Mountain Mission - Schedule & Price guide",
         "meta_descr": "",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -2320,7 +2320,7 @@
       "settings": {
         "title": "Mountain Mission - Contact",
         "meta_descr": "",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -2500,7 +2500,7 @@
       "settings": {
         "title": "Mountain Mission - Transport &amp; accomodation",
         "meta_descr": "",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2673,6 +2673,186 @@
           "text": "Each trip will have its own method of transport and type of accomodation.&nbsp;<br>Most trips will start from a central location in the country in which the trip is being made, such as a certain airport or train station. For most trips, we will offer local in-trip transport to get you to and from the central location and the areas the adventure takes place in. The in-trip travel is normally inclusive in the total trip price.<br>Accomodation will normally be in hostels or in tents or a combination, depending on the type or adventure. This is again normally included in the total trip price.<br><br>As people have a wide range of different dietry preferences and budgetary limits, we generally do not provide food and drink, and also do not provide this on the trips, unless this has been agreed in advance. Although most hostels will offer breakfast, which may be included in the price. At the start of each trip, and when appropriate during the trip, we will facilitate time to make food purchaces. We will also make sure you know what you will need and what means of food preparation is available.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_anchor": "msg-box6-1y"
+        }
+      ]
+    },
+    "clientcomments.html": {
+      "settings": {
+        "title": "Mountain Mission - Clint Comments",
+        "meta_descr": "",
+        "order": 8
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#cccccc!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mm-logo2017a-270x128.jpg",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "index.html",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOUNTAIN MISSION</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT MM</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutmm.html\">Mountain Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ScottishHighlands.html\">Scottish Highlands</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UKEU.html\">UK + European hiking</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ADVENTURES WE OFFER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"MunroBagging.html\">Munro bagging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HikingChallenges.html\" aria-expanded=\"false\">Hiking challenges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LongDistance.html\">Long distance treks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"YourAdventure.html\">Your custom adventure</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Groups.html\">Group adventures</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"reflection.html\">Spiritual reflection</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">BOOKING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html\">Schedule &amp; price guide</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Equipment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"transportandaccomodation.html\">Transport &amp; accomodation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"terms.html\">Terms &amp; conditions</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-1z"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Mountain Mission.",
+          "_anchor": "footer1-20"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "20",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/feedback-500x500.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Client comments",
+          "text": "We love to get feedback from clients who have used our services, to help us improve what we offer and also encourage our staff that we are truely offering something worthwhile. Here are some comments by recent clients:<br><br><i><br>\"blablabla\"</i><br><i>- Daniel, London, UK</i><br><br><i>blablabla</i><br><i>- Ben, California, USA</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_anchor": "msg-box6-21"
         }
       ]
     }
