@@ -19,10 +19,13 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#acacac"
+      ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 74,
+    "uniqCompNum": 75,
     "versionPublish": "4.2.2",
     "favicon": "",
     "noImageResize": "",
@@ -315,16 +318,137 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": "1"
+          },
+          "text": "Copyright (c) 2017 Mountain Mission."
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "text": "Copyright (c) 2017 Mountain Mission."
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/white-600x450.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.mountaineering.scot/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nkbv-logo-horizontaal-web1-600x246.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://nkbv.nl",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mta.gif",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://www.mountain-training.org/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/white-600x450.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-22"
         }
       ]
     },
@@ -436,14 +560,14 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#323232",
             "overlay": true,
             "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "1"
           },
           "text": "Copyright (c) 2017 Mountain Mission."
         },
@@ -616,14 +740,14 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#323232",
             "overlay": true,
             "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "1"
           },
           "text": "Copyright (c) 2017 Mountain Mission."
         },
@@ -796,14 +920,14 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#323232",
             "overlay": true,
             "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "1"
           },
           "text": "Copyright (c) 2017 Mountain Mission."
         },
@@ -979,14 +1103,14 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#323232",
             "overlay": true,
             "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "1"
           },
           "text": "Copyright (c) 2017 Mountain Mission."
         },
@@ -1159,14 +1283,14 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#323232",
             "overlay": true,
             "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "1"
           },
           "text": "Copyright (c) 2017 Mountain Mission."
         },
@@ -1338,14 +1462,14 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#323232",
             "overlay": true,
             "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "1"
           },
           "text": "Copyright (c) 2017 Mountain Mission."
         },
@@ -1518,14 +1642,14 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#323232",
             "overlay": true,
             "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "1"
           },
           "text": "Copyright (c) 2017 Mountain Mission."
         },
@@ -1698,14 +1822,14 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#323232",
             "overlay": true,
             "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "1"
           },
           "text": "Copyright (c) 2017 Mountain Mission."
         },
@@ -1878,14 +2002,14 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#323232",
             "overlay": true,
             "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "1"
           },
           "text": "Copyright (c) 2017 Mountain Mission."
         },
@@ -2058,14 +2182,14 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#323232",
             "overlay": true,
             "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "1"
           },
           "text": "Copyright (c) 2017 Mountain Mission."
         },
@@ -2244,14 +2368,14 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#323232",
             "overlay": true,
             "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "1"
           },
           "text": "Copyright (c) 2017 Mountain Mission."
         },
@@ -2426,14 +2550,14 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#323232",
             "overlay": true,
             "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "1"
           },
           "text": "Copyright (c) 2017 Mountain Mission.",
           "_anchor": "footer1-1u"
@@ -2606,14 +2730,14 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#323232",
             "overlay": true,
             "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "1"
           },
           "text": "Copyright (c) 2017 Mountain Mission.",
           "_anchor": "footer1-1x"
@@ -2786,14 +2910,14 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mountscot-372x115.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#323232",
             "overlay": true,
             "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": "1"
           },
           "text": "Copyright (c) 2017 Mountain Mission.",
           "_anchor": "footer1-20"
