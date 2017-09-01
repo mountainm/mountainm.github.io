@@ -1213,6 +1213,10 @@ h6,
 }
 #msg-box6-1m P {
   font-size: 17px;
+  color: #f28281;
+}
+#msg-box6-1m U {
+  color: #f3c649;
 }
 #menu-1q .hide-buttons .nav-btn {
   display: none !important;
