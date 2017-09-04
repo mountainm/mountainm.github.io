@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "schedule.html",
+    "currentPage": "terms.html",
     "name": "Mountain Mission",
     "theme": {
       "name": "mobirise3",
@@ -2069,7 +2069,7 @@
             }
           },
           "title": "Term &amp; Conditions",
-          "text": "While we like to keep things as simple as possible, there are certain things that should be clear to avoid misunderstandings. Our main terms and conditions are listed here:<br>&lt;can be sent upon request, we will post the T&amp;C here soon as well&gt;",
+          "text": "While we like to keep things as simple as possible, there are certain things that should be clear to avoid misunderstandings. Our terms and conditions can be found here:<br><br><a href=\"http://www.mountainmission.eu/TermsAndConditions_vAug2017.pdf\" target=\"_blank\">Terms &amp; Conditions</a><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
