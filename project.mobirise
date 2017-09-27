@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "schedule.html",
+    "currentPage": "index.html",
     "name": "Mountain Mission",
     "theme": {
       "name": "mobirise3",
@@ -36,7 +36,7 @@
       "settings": {
         "main": true,
         "title": "Mountain Mission",
-        "meta_descr": "",
+        "meta_descr": "Mountain Mission aims to assist you in enjoying the mountains. \nWe can with a hikling challenge, an adventure, a new experience, or discovering new places from a unique perspective. Our focus is on guiding in the Scottish Highlands and the Austrian Alps, but we can facilitate hikes all over Europe.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
