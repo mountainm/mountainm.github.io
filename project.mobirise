@@ -1331,7 +1331,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/group-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20171027-1400x787.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2259,7 +2259,7 @@
             }
           },
           "title": "Schedule &amp; price guide",
-          "text": "<p>While we prefer to offer custom adventures to our clients, we also schedule general trips during the year. <b>To make a booking, contact us through the<a href=\"contact.html\"> </a><u><a href=\"contact.html\">contact</a></u><a href=\"contact.html\"> </a>page.</b></p><p><b>A</b> = Places available / <b>F</b> = Trip is full / <b>C</b> = Trip confirmed to definitely commense / <b>N</b> = Not yet confirmed to definitely commence</p><p>We currently have the following trips scheduled (<b>other dates &amp; trips are also possible!</b>):<u><b><br></b></u></p><p><u>Three/Four-day hiking in Scotland</u>  \n<br>Possible dates: TBD\n<br>- multiple dates are throughout April-July 2018 <b>A N</b>\n<br>Estimated costs: 190 Euros - max* 460 Euros incl. accommodation &amp; local transport (*depending on the number of participants) <br></p><p><b>Rough price guide:&nbsp;</b>Each adventure has different demands and expenses, we cannot give exact costs applicable for all activities. However the following gives an indication of the guiding costs only. Please keep in mind that most trips will also include accommodation costs and travel costs. Also, <b>multi-day guiding trips will often include a cost reduction</b>. For 'Spiritual reflection' trips, we also have special prices, which are available on request. As a rough guide: for a single person for a single day, a fee may be in the region of 120-250 euros. However, for say a group of 6 people for 5 days, the fee may be as low as 30 euros/person/day. Please do get in contact for a more precise quotation!<br></p>",
+          "text": "<p>While we prefer to offer custom adventures to our clients, we also schedule general trips during the year. <b>To record your interest or make a booking, contact us through the<a href=\"contact.html\"> </a><u><a href=\"contact.html\">contact</a></u><a href=\"contact.html\"> </a>page.</b></p><p><b>A</b> = Places available / <b>F</b> = Trip is full / <b>C</b> = Trip confirmed to definitely commense / <b>N</b> = Not yet confirmed to definitely commence</p><p>We currently have the following trips scheduled (<b>other dates &amp; trips are also possible!</b>):<u><b><br></b></u></p><p><u>Three/Four-day hiking in Scotland</u>  \n<br>Possible dates: TBD\n<br>- multiple dates are available throughout April-October 2018 <b>A N</b>\n<br>Estimated costs: 190 Euros - max* 460 Euros incl. accommodation &amp; local transport (*depending on the number of participants) </p>If you are interested in joining a trip, please make this know to us!<br><p><br></p><p><b>Rough price guide:&nbsp;</b>Each adventure has different demands and expenses, we cannot give exact costs applicable for all activities. However the following gives an indication of the guiding costs only. Please keep in mind that most trips will also include accommodation costs and travel costs. Also, <b>multi-day guiding trips will often include a cost reduction</b>. For 'Spiritual reflection' trips, we also have special prices, which are available on request. As a rough guide: for a single person for a single day, a fee may be in the region of 120-250 euros. However, for say a group of 6 people for 5 days, the fee may be as low as 30 euros/person/day. Please do get in contact for a more precise quotation!<br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
@@ -2809,7 +2809,7 @@
     },
     "clientcomments.html": {
       "settings": {
-        "title": "Mountain Mission - Clint Comments",
+        "title": "Mountain Mission - Client Comments",
         "meta_descr": "",
         "order": 8
       },
@@ -2981,7 +2981,7 @@
             }
           },
           "title": "Client comments",
-          "text": "We love to get feedback from clients who have used our services, to help us improve what we offer and also encourage our staff that we are truely offering something worthwhile. Here are some comments by recent clients:<br><br><i><br>\"blablabla\"</i><br><i>- Daniel, London, UK</i><br><br><i>blablabla</i><br><i>- Ben, California, USA</i>",
+          "text": "We love to get feedback from clients who have used our services, to help us improve what we offer and also encourage our staff that we are truely offering something worthwhile. Here are some comments by recent clients:<br><br><i><br>\"Simeon took me on a four day hike in the Scottish Highlands, far afield from any towns or villages. From beginning to end he was organised, reassuring and in good spirits. A thoroughly enjoyable experience and one that I'd highly recommend!\" - May 2016<br>- Daniel, London, UK&nbsp;<br></i><br><br><i>blablabla</i><br><i>- Ben, California, USA</i><br><br><br><i>\"For a long time I've looked up at the iconic mountain at the head of Glencoe and wondered what it would be like to stand on its summit.  Now I know, it is awesome, majestic, exciting! It was a challenging climb but thanks to Simeon from Mountain Mission for making a dream into a reality.  He carefully explained the route before we left, checked my equipment and guided me safely up and along the ridge crossing two Corbetts en route to our second munro of the day.  Tougher still for me was getting back down, but never at any point did I feel unsafe. Simeon's instructions &amp; guidance were clear and concise.  My bucket list climb of Buachaille Etive Mor complete. - one happy camper 😊 - I will be back to use Mountain Mission again as soon as I decide which mountain is next on my list - perhaps Lochnagar\" - September 2017<br>- Lesley-Ann, Dundee, UK<br></i><br><br><i>\"Een goed georganiseerde reis met mooie hiking tochten in de Schotse hooglanden. Uitdagend en inspannend, maar zeer de moeite waard!\" - Oktober 2017</i><br><i>- Marien, Pijnacker, NL</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_anchor": "msg-box6-21"
         }
