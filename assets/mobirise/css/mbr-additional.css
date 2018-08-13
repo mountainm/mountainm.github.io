@@ -550,7 +550,7 @@ h6,
 }
 #menu-6 .link[aria-expanded="true"],
 #menu-6 .dropdown-item[aria-expanded="true"] {
-  color: #cccccc!important;
+  color: #f7da64!important;
 }
 #menu-6.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
