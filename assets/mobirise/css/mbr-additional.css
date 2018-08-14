@@ -1418,7 +1418,7 @@ h6,
 }
 #menu-1w .link[aria-expanded="true"],
 #menu-1w .dropdown-item[aria-expanded="true"] {
-  color: #cccccc!important;
+  color: #f7da64!important;
 }
 #menu-1w.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -1489,7 +1489,7 @@ h6,
 }
 #menu-1z .link[aria-expanded="true"],
 #menu-1z .dropdown-item[aria-expanded="true"] {
-  color: #cccccc!important;
+  color: #f7da64!important;
 }
 #menu-1z.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
