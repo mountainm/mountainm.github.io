@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "clientcomments.html",
+    "currentPage": "UKEU.html",
     "name": "Mountain Mission",
     "theme": {
       "name": "mobirise3",
@@ -1764,7 +1764,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#cccccc!important"
+              "color": "#f7da64!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1889,7 +1889,7 @@
             }
           },
           "title": "About:<br>UK &amp; EUROPE HIKING",
-          "text": "Other area's of the UK have equally stunning areas to explore besides Scotland. Snowdonia National Park in Wales is a unique and great place to enjoy hill walking and many adventures, and are home to fourteen +3000ft hills. The Lake District and Yorkshire Dales offer their own special terrain. Not to mention the Peak District of the Brecon Beacons. Mountain Mission is open to guide in all these areas and more.<br><br>Of course mountains are not unique to the UK. Mountains Mission can also assist in trips to many areas throughout Europe.",
+          "text": "Other area's of the UK have equally stunning areas to explore besides Scotland. Snowdonia National Park in Wales is a unique and great place to enjoy hill walking and many adventures, and are home to fourteen +3000ft hills. The Lake District and Yorkshire Dales offer their own special terrain. Not to mention the Peak District or the Brecon Beacons. Mountain Mission is open to guide in all these areas and more.<br><br>Of course mountains are not unique to the UK. Mountains Mission can also assist in trips to many areas throughout Europe, such as in Scandanavia, Eastern Europe and so on.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
