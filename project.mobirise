@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "HikingChallenges.html",
+    "currentPage": "terms.html",
     "name": "Mountain Mission EN",
     "theme": {
       "name": "mobirise3",
@@ -2070,7 +2070,7 @@
               "size": 250
             }
           },
-          "title": "Term &amp; Conditions",
+          "title": "Terms &amp; Conditions",
           "text": "While we like to keep things as simple as possible, there are certain things that should be clear to avoid misunderstandings. Our terms and conditions can be found here:<br><br><a href=\"http://www.mountainmission.eu/TermsAndConditions_vAug2017.pdf\" target=\"_blank\">Terms &amp; Conditions</a><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
