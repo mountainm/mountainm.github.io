@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "HikingChallenges.html",
     "name": "Mountain Mission EN",
     "theme": {
       "name": "mobirise3",
@@ -684,7 +684,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#cccccc!important"
+              "color": "#f7da64!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -864,7 +864,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#cccccc!important"
+              "color": "#f7da64!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1047,7 +1047,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#cccccc!important"
+              "color": "#f7da64!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1227,7 +1227,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#cccccc!important"
+              "color": "#f7da64!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1333,7 +1333,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20171027-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/group-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1407,7 +1407,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#cccccc!important"
+              "color": "#f7da64!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1512,7 +1512,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/challenge-605x345.jpg",
+              "src": "@PROJECT_PATH@/assets/images/challenge-alt-471x345.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1586,7 +1586,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#cccccc!important"
+              "color": "#f7da64!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1946,7 +1946,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#cccccc!important"
+              "color": "#f7da64!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -2052,7 +2052,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/tc-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tc-500x375.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2316,7 +2316,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#cccccc!important"
+              "color": "#f7da64!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -2499,7 +2499,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#cccccc!important"
+              "color": "#f7da64!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -2784,7 +2784,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/accom-600x315.jpg",
+              "src": "@PROJECT_PATH@/assets/images/transportacc-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": "",
