@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "schedule.html",
+    "currentPage": "index.html",
     "name": "Mountain Mission EN",
     "theme": {
       "name": "mobirise3",
@@ -38,7 +38,7 @@
       "settings": {
         "main": true,
         "title": "Mountain Mission",
-        "meta_descr": "Mountain Mission aims to assist you in enjoying the mountains. \nWe can with a hikling challenge, an adventure, a new experience, or discovering new places from a unique perspective. Our focus is on guiding in the Scottish Highlands and the Austrian Alps, but we can facilitate hikes all over Europe.",
+        "meta_descr": "Mountain Mission aims to assist you in enjoying the mountains. \nTime for a new adventure!? Hike, explore and challenge yourself to new heights in the Scottish Highlands and throughout Europe. We guide pre-planned trips, group adventures, hiking challenges and so much more!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -99,7 +99,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p>Welcome to Mountain Mission; we aim to assist you in enjoying and achieving in the mountains. \r</p><p><br></p><p>We can help you if you are looking for a <b>challenge</b>, if you are looking for an&nbsp;<b>adventure</b>, if you are looking for a <b>new experience</b>, or if you are simply looking to experience new places from a <b>unique perspective</b>.&nbsp;</p><p><br></p><p>All our adventures and trips are led by experienced guides and can be customised to your own aims and requirements. Just ask!</p><p><br></p><p><span style=\"font-size: 1.07rem;\">Take a look at who we are and what we can do for you... and feel free to get in contact to discuss your ideas. Also see </span><a href=\"clientcomments.html\" class=\"text-black\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255);\"><b>what our&nbsp;clients say</b></a><span style=\"font-size: 1.07rem;\"> about their experiences.</span><br></p><p><br></p><p><br></p><p><br></p>"
+          "text": "<p><br></p><p>Welcome to Mountain Mission; we aim to assist you in enjoying and achieving in the mountains. \n</p><p><br></p><p>We can help you if you are looking for a <b>challenge</b>, if you are looking for an&nbsp;<b>adventure</b>, if you are looking for a <b>new experience</b>, or if you are simply looking to experience new places from a <b>unique perspective</b>.&nbsp;</p><p><br></p><p>All our adventures and trips are led by experienced guides and can be customised to your own aims and requirements. Just ask!</p><p><br></p><p><span style=\"font-size: 1.07rem;\">Take a look at who we are and what we can do for you... and feel free to get in contact to discuss your ideas. Also see </span><a href=\"clientcomments.html\" class=\"text-black\" style=\"font-size: 1.07rem; background-color: rgb(255, 255, 255);\"><b>what our&nbsp;clients say</b></a><span style=\"font-size: 1.07rem;\"> about their experiences.</span><br></p><p><br></p><p><br></p><p><br></p>"
         },
         {
           "_tags": [
